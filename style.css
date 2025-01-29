@@ -1,0 +1,276 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    background-color: black;
+    height: 30px;
+
+}
+
+.navbar-header {
+    display: flex;
+    position: relative;
+    gap: 28px;
+    margin-right: 200px;
+    
+}
+
+.navbar-header2 {
+    display: flex;
+    position: relative;
+    gap: 20px;
+}
+
+.fp1 {
+    color: white;
+}
+
+.header2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:  aliceblue;
+    position: relative;
+    gap: 30px;
+    height: 70px;
+    position: sticky;
+    top: 0;
+}
+
+.fs1 {
+    width:  700px;
+    border: solid 2px yellow;
+    background-color: white ;
+    border-radius: 7px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    padding-left: 10px;
+
+}
+
+.fs1 input {
+    border: none;
+    width: 700px;
+}
+
+.fb1 {
+    background-color: yellow;
+    height: 33px;
+    border-radius: 7px;
+    width: 80px;
+    border: none;
+}
+
+.navbar-header3 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.header-nav {
+    display: flex;
+    flex-direction: column;
+    margin-left: 22px;
+}
+
+.header3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    height: 22px;
+    padding-bottom: 10px    ;
+}
+
+.fp2 {
+    font-size: 17px;
+    margin-left: 45px;
+}
+
+.body {
+    width: 600px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.fimg1 {
+    width: 1300px;
+    border-radius: 20px;
+}
+
+.body-part1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1300px;
+    margin-top: 70px;
+    margin-left: 300px;
+}
+
+.fp31 {
+    background-image: url(https://mini-io-api.texnomart.uz/catalog/special-category/4/aa4237cb-9bc4-4941-8535-277ca7831f48.png);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fp32 {
+    background-image: url(https://mini-io-api.texnomart.uz/catalog/special-category/8/61521f46-27bb-4ba1-8fa7-34f3bc6e9530.png);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fp33 {
+    background-image: url(https://mini-io-api.texnomart.uz/catalog/special-category/5/ade607e8-e08e-40a1-85c1-b291327fe412.png);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fp34 {
+    background-image: url(https://mini-io-api.texnomart.uz/catalog/special-category/7/74a09808-7198-496a-b704-158399923abd.png);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fp35 {
+    background-image: url(https://mini-io-api.texnomart.uz/catalog/special-category/22/1f3896fc-fbb9-4d2f-ac2e-17df4bf4959b.png);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fp36 {
+    background-image: url(https://mini-io-api.texnomart.uz/catalog/special-category/9/e84d9227-6eef-4f6c-94f4-a26258c5d5a1.png);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fp37 {
+    background-image: url(https://mini-io-api.texnomart.uz/catalog/special-category/11/b9e70df6-9f7a-49aa-a5fc-7ebd8e517ab6.png);
+    background-size: cover;
+    background-position: center;
+    width: 130px;
+    height: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fp30 {
+    font-size: 50px;
+    border: none;
+    border: 1px solid white;
+    position: relative;
+    left: 25px;
+}
+
+.fp38 {
+    font-size: 50px;
+    border: none;
+    border: 1px solid white;
+    position: relative;
+    right: 25px;
+}
+
+.body-h1 {
+    margin-top: 60px;
+    margin-left: 310px;
+}
+
+.body-part2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    gap: 40px;
+    margin-top: 45px;
+}
+
+.body-part2 .box {
+    width: 280px;
+    height: 420px;
+    border: 3px solid aliceblue;
+    border-radius: 20px;
+    
+}
+
+.body-part2 .box img {
+    width: 278px;
+    height: 250px;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-left: 5px;
+    border: 1px solid gray;
+}
+
+.body-part2 .box h3 {
+    margin-left: 10px;
+}
+
+.body-part2 .box button {
+    margin-left: 10px;
+    background-color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+}
+
+.body-part2 .box h2 {
+    padding-left: 10px;
+    justify-content: space-around;
+}
+
+.body-part2 .box h2 button {
+    padding-left: 10px;
+    border: 2px solid gold;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 40px;
+}
